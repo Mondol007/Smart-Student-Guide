@@ -1,4 +1,4 @@
-# Smart Student Guide: Enhancing University Connectivity for Students via Android Application
+# Smart Student Guide: Enhancing University Connectivity for Students
 
 An Android Project helping students to connect better with their Universities.
 
